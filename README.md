@@ -202,9 +202,7 @@ ForImage is a Fortran library for reading and writing images. Please note that F
 **fpm Dependency:**
 ```toml
 [dependencies]
-forimage = { git = "https://github
-
-.com/gha3mi/forimage.git" }
+forimage = { git = "https://github.com/gha3mi/forimage.git" }
 ```
 
 ## PInverse
