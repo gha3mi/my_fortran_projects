@@ -114,9 +114,7 @@ foropenai = { git = "https://github.com/gha3mi/foropenai.git" }
 
 ## ForSolver
 
-[![GitHub](https://img.shields.io/badge/GitHub-For
-
-Solver-blue.svg?style=social&logo=github)](https://github.com/gha3mi/forsolver)
+[![GitHub](https://img.shields.io/badge/GitHub-ForSolver-blue.svg?style=social&logo=github)](https://github.com/gha3mi/forsolver)
 ![Version](https://img.shields.io/github/v/tag/gha3mi/forsolver?color=blue&logo=github&style=flat)
 [![Documentation](https://img.shields.io/badge/ford-Documentation%20-blueviolet.svg)](https://gha3mi.github.io/forsolver/)
 ![License](https://img.shields.io/github/license/gha3mi/forsolver?color=green)
