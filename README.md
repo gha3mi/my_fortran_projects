@@ -82,9 +82,7 @@ foreig = { git = "https://github.com/gha3mi/foreig.git" }
 ## ForClust
 
 [![GitHub](https://img.shields.io/badge/GitHub-ForClust-blue.svg?style=social&logo=github)](https://github.com/gha3mi/forclust)
-[![Version](https://img.shields.io/github/v
-
-/tag/gha3mi/forclust?color=blue&logo=github&style=flat)](https://github.com/gha3mi/forclust/releases)
+[![Version](https://img.shields.io/github/v/tag/gha3mi/forclust?color=blue&logo=github&style=flat)](https://github.com/gha3mi/forclust/releases)
 [![Documentation](https://img.shields.io/badge/ford-Documentation%20-blueviolet.svg)](https://gha3mi.github.io/forclust/)
 [![License](https://img.shields.io/github/license/gha3mi/forclust?color=green)](https://github.com/gha3mi/forclust/blob/main/LICENSE)
 [![Build](https://github.com/gha3mi/forclust/actions/workflows/ci.yml/badge.svg)](https://github.com/gha3mi/forclust/actions/workflows/ci.yml)
@@ -173,9 +171,7 @@ forlapack = { git = "https://github.com/gha3mi/forlapack.git" }
 
 ## ForBlas
 
-[![GitHub](https://img.shields.io/badge/GitHub-ForBlas-blue.svg?style=social&logo=
-
-github)](https://github.com/gha3mi/forblas)
+[![GitHub](https://img.shields.io/badge/GitHub-ForBlas-blue.svg?style=social&logo=github)](https://github.com/gha3mi/forblas)
 [![Version](https://img.shields.io/github/v/tag/gha3mi/forblas?color=blue&logo=github&style=flat)](https://github.com/gha3mi/forblas/releases)
 [![Documentation](https://img.shields.io/badge/ford-Documentation%20-blueviolet.svg)](https://gha3mi.github.io/forblas/)
 [![License](https://img.shields.io/github/license/gha3mi/forblas?color=green)](https://github.com/gha3mi/forblas/blob/main/LICENSE)
