@@ -7,6 +7,24 @@ All projects listed here are designed to be used as fpm (Fortran package manager
 
 Below is a brief overview of each project:
 
+## ForMatmul
+
+[![GitHub](https://img.shields.io/badge/GitHub-ForMatmul-blue.svg?style=social&logo=github)](https://github.com/gha3mi/formatmul)
+[![Version](https://img.shields.io/github/v/tag/gha3mi/formatmul?color=blue&logo=github&style=flat)](https://github.com/gha3mi/formatmul/releases)
+[![Documentation](https://img.shields.io/badge/ford-Documentation%20-blueviolet.svg)](https://gha3mi.github.io/formatmul/)
+[![License](https://img.shields.io/github/license/gha3mi/formatmul?color=green)](https://github.com/gha3mi/formatmul/blob/main/LICENSE)
+[![Build](https://github.com/gha3mi/formatmul/actions/workflows/ci.yml/badge.svg)](https://github.com/gha3mi/formatmul/actions/workflows/ci.yml)
+
+<!-- <img alt="ForMatmul" src="https://github.com/gha3mi/formatmul/raw/main/media/logo.png" width="640"> -->
+
+ForMatmul is a Fortran library that overloads the `matmul` function to enable efficient matrix multiplication with coarray.
+
+**fpm Dependency:**
+```toml
+[dependencies]
+formatmul = { git = "https://github.com/gha3mi/formatmul.git" }
+```
+
 ## ForOpenAI
 
 [![GitHub](https://img.shields.io/badge/GitHub-ForOpenAI-blue.svg?style=social&logo=github)](https://github.com/gha3mi/foropenai)
