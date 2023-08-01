@@ -223,20 +223,20 @@ ForImage is a Fortran library for reading and writing images. Please note that F
 forimage = { git = "https://github.com/gha3mi/forimage.git" }
 ```
 
-## PInverse
+## ForInv
 
-[![GitHub](https://img.shields.io/badge/GitHub-PInverse-blue.svg?style=social&logo=github)](https://github.com/gha3mi/pinverse)
-[![Version](https://img.shields.io/github/v/tag/gha3mi/pinverse?color=blue&logo=github&style=flat)](https://github.com/gha3mi/pinverse/releases)
-[![Documentation](https://img.shields.io/badge/ford-Documentation%20-blueviolet.svg)](https://gha3mi.github.io/pinverse/)
-[![License](https://img.shields.io/github/license/gha3mi/pinverse?color=green)](https://github.com/gha3mi/pinverse/blob/main/LICENSE)
-[![Build](https://github.com/gha3mi/pinverse/actions/workflows/ci.yml/badge.svg)](https://github.com/gha3mi/pinverse/actions/workflows/ci.yml)
+[![GitHub](https://img.shields.io/badge/GitHub-ForInv-blue.svg?style=social&logo=github)](https://github.com/gha3mi/forinv)
+[![Version](https://img.shields.io/github/v/tag/gha3mi/forinv?color=blue&logo=github&style=flat)](https://github.com/gha3mi/forinv/releases)
+[![Documentation](https://img.shields.io/badge/ford-Documentation%20-blueviolet.svg)](https://gha3mi.github.io/forinv/)
+[![License](https://img.shields.io/github/license/gha3mi/forinv?color=green)](https://github.com/gha3mi/forinv/blob/main/LICENSE)
+[![Build](https://github.com/gha3mi/forinv/actions/workflows/ci.yml/badge.svg)](https://github.com/gha3mi/forinv/actions/workflows/ci.yml)
 
-<!-- <img alt="PInverse" src="https://github.com/gha3mi/pinverse/raw/main/media/logo.png" width="640"> -->
+<!-- <img alt="ForInv" src="https://github.com/gha3mi/forinv/raw/main/media/logo.png" width="640"> -->
 
-PInverse is a Fortran library for calculating pseudoinverse using various methods.
+ForInv is a Fortran library for calculating pseudoinverse using various methods.
 
 **fpm Dependency:**
 ```toml
 [dependencies]
-pinverse = { git = "https://github.com/gha3mi/pinverse.git" }
+forinv = { git = "https://github.com/gha3mi/forinv.git" }
 ```
