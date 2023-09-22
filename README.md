@@ -19,6 +19,12 @@ Below is a brief overview of each project:
 
 ForCompile is a Fortran library to access the Compile Explorer API.
 
+**fpm Dependency:**
+```toml
+[dependencies]
+forcompile = { git = "https://github.com/gha3mi/forcompile.git" }
+```
+
 ## ForMatmul
 
 [![GitHub](https://img.shields.io/badge/GitHub-ForMatmul-blue.svg?style=social&logo=github)](https://github.com/gha3mi/formatmul)
