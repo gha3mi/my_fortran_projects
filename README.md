@@ -7,6 +7,18 @@ All projects listed here are designed to be used as fpm (Fortran package manager
 
 Below is a brief overview of each project:
 
+## ForCompile
+
+[![GitHub](https://img.shields.io/badge/GitHub-ForCompile-blue.svg?style=social&logo=github)](https://github.com/gha3mi/forcompile)
+[![Version](https://img.shields.io/github/release/gha3mi/forcompile.svg)](https://github.com/gha3mi/forcompile/releases/latest)
+[![Documentation](https://img.shields.io/badge/ford-Documentation%20-blueviolet.svg)](https://gha3mi.github.io/forcompile/)
+[![License](https://img.shields.io/github/license/gha3mi/forcompile?color=green)](https://github.com/gha3mi/forcompile/blob/main/LICENSE)
+[![Build](https://github.com/gha3mi/forcompile/actions/workflows/ci.yml/badge.svg)](https://github.com/gha3mi/forcompile/actions/workflows/ci.yml)
+
+<!-- <img alt="ForCompile" src="https://github.com/gha3mi/forcompile/raw/main/media/logo.png" width="640"> -->
+
+ForCompile is a Fortran library to access the Compile Explorer API.
+
 ## ForMatmul
 
 [![GitHub](https://img.shields.io/badge/GitHub-ForMatmul-blue.svg?style=social&logo=github)](https://github.com/gha3mi/formatmul)
