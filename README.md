@@ -233,7 +233,7 @@ forblas = { git = "https://github.com/gha3mi/forblas.git" }
 
 <!-- <img alt="ForImage" src="https://github.com/gha3mi/forimage/raw/main/media/logo.png" width="640"> -->
 
-ForImage is a Fortran library for reading and writing images. Please note that ForImage is currently under development.
+ForImage is a Fortran library for PNM file processing and image editing. 
 
 **fpm Dependency:**
 ```toml
