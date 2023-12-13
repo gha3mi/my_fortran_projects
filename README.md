@@ -258,3 +258,21 @@ ForInv is a Fortran library for calculating pseudoinverse using various methods.
 [dependencies]
 forinv = { git = "https://github.com/gha3mi/forinv.git" }
 ```
+
+## ForDebug
+
+[![GitHub](https://img.shields.io/badge/GitHub-ForDebug-blue.svg?style=social&logo=github)](https://github.com/gha3mi/fordebug)
+[![Version](https://img.shields.io/github/release/gha3mi/fordebug.svg)](https://github.com/gha3mi/fordebug/releases/latest)
+[![Documentation](https://img.shields.io/badge/ford-Documentation%20-blueviolet.svg)](https://gha3mi.github.io/fordebug/)
+[![License](https://img.shields.io/github/license/gha3mi/fordebug?color=green)](https://github.com/gha3mi/fordebug/blob/main/LICENSE)
+[![Build](https://github.com/gha3mi/fordebug/actions/workflows/CI_test.yml/badge.svg)](https://github.com/gha3mi/fordebug/actions/workflows/CI_test.yml)
+
+<!-- <img alt="ForDebug" src="https://github.com/gha3mi/fordebug/raw/main/media/logo.png" width="640"> -->
+
+ForDebug is a Fortran library designed for debugging Fortran code, especially within pure procedures.
+
+**fpm Dependency:**
+```toml
+[dependencies]
+fordebug = { git = "https://github.com/gha3mi/fordebug.git" }
+```
