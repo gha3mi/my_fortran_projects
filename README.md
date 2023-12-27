@@ -276,3 +276,21 @@ ForDebug is a Fortran library designed for debugging Fortran code, especially wi
 [dependencies]
 fordebug = { git = "https://github.com/gha3mi/fordebug.git" }
 ```
+
+## ForBenchmark
+
+[![GitHub](https://img.shields.io/badge/GitHub-ForBenchmark-blue.svg?style=social&logo=github)](https://github.com/gha3mi/forbenchmark)
+[![Version](https://img.shields.io/github/release/gha3mi/forbenchmark.svg)](https://github.com/gha3mi/forbenchmark/releases/latest)
+[![Documentation](https://img.shields.io/badge/ford-Documentation%20-blueviolet.svg)](https://gha3mi.github.io/forbenchmark/)
+[![License](https://img.shields.io/github/license/gha3mi/forbenchmark?color=green)](https://github.com/gha3mi/forbenchmark/blob/main/LICENSE)
+<!-- [![Build](https://github.com/gha3mi/forbenchmark/actions/workflows/CI_test.yml/badge.svg)](https://github.com/gha3mi/forbenchmark/actions/workflows/CI_test.yml) -->
+
+<!-- <img alt="ForBenchmark" src="https://github.com/gha3mi/forbenchmark/raw/main/media/logo.png" width="640"> -->
+
+ForBenchmark is a Fortran library for benchmarking serial and coarray-based codes.
+
+**fpm Dependency:**
+```toml
+[dependencies]
+forbenchmark = { git = "https://github.com/gha3mi/forbenchmark.git" }
+```
