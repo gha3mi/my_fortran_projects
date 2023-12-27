@@ -287,7 +287,7 @@ fordebug = { git = "https://github.com/gha3mi/fordebug.git" }
 
 <!-- <img alt="ForBenchmark" src="https://github.com/gha3mi/forbenchmark/raw/main/media/logo.png" width="640"> -->
 
-ForBenchmark is a Fortran library for benchmarking serial and coarray-based codes.
+ForBenchmark is a Fortran library for benchmarking (with support for coarrays).
 
 **fpm Dependency:**
 ```toml
