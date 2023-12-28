@@ -294,3 +294,22 @@ ForBenchmark is a Fortran library for benchmarking (with support for coarrays).
 [dependencies]
 forbenchmark = { git = "https://github.com/gha3mi/forbenchmark.git" }
 ```
+
+## ForUnitTest
+
+[![GitHub](https://img.shields.io/badge/GitHub-ForUnitTest-blue.svg?style=social&logo=github)](https://github.com/gha3mi/forunittest)
+[![Version](https://img.shields.io/github/release/gha3mi/forunittest.svg)](https://github.com/gha3mi/forunittest/releases/latest)
+[![Documentation](https://img.shields.io/badge/ford-Documentation%20-blueviolet.svg)](https://gha3mi.github.io/forunittest/)
+[![License](https://img.shields.io/github/license/gha3mi/forunittest?color=green)](https://github.com/gha3mi/forunittest/blob/main/LICENSE)
+[![Build](https://github.com/gha3mi/forunittest/actions/workflows/CI_test.yml/badge.svg)](https://github.com/gha3mi/forunittest/actions/workflows/CI_test.yml)
+
+<!-- <img alt="ForUnitTest" src="https://github.com/gha3mi/forunittest/raw/main/media/logo.png" width="640"> -->
+
+ForUnitTest is a Fortran library for benchmarking (with support for coarrays).
+
+**fpm Dependency:**
+```toml
+[dependencies]
+forunittest = { git = "https://github.com/gha3mi/forunittest.git" }
+```
+
