@@ -305,7 +305,7 @@ forbenchmark = { git = "https://github.com/gha3mi/forbenchmark.git" }
 
 <!-- <img alt="ForUnitTest" src="https://github.com/gha3mi/forunittest/raw/main/media/logo.png" width="640"> -->
 
-ForUnitTest is a Fortran library for benchmarking (with support for coarrays).
+ForUnitTest is a Fortran library for unit testing.
 
 **fpm Dependency:**
 ```toml
