@@ -43,6 +43,24 @@ ForMatmul is a Fortran library that overloads the `matmul` function to enable ef
 formatmul = { git = "https://github.com/gha3mi/formatmul.git" }
 ```
 
+## ForDot
+
+[![GitHub](https://img.shields.io/badge/GitHub-ForDot-blue.svg?style=social&logo=github)](https://github.com/gha3mi/fordot)
+[![Version](https://img.shields.io/github/release/gha3mi/fordot.svg)](https://github.com/gha3mi/fordot/releases/latest)
+[![Documentation](https://img.shields.io/badge/ford-Documentation%20-blueviolet.svg)](https://gha3mi.github.io/fordot/)
+[![License](https://img.shields.io/github/license/gha3mi/fordot?color=green)](https://github.com/gha3mi/fordot/blob/main/LICENSE)
+[![Build](https://github.com/gha3mi/fordot/actions/workflows/CI_test.yml/badge.svg)](https://github.com/gha3mi/fordot/actions/workflows/CI_test.yml)
+
+<!-- <img alt="ForDot" src="https://github.com/gha3mi/fordot/raw/main/media/logo.png" width="640"> -->
+
+ForDot is a Fortran library that overloads the `dot_product` function to enable efficient dot product with/without coarray.
+
+**fpm Dependency:**
+```toml
+[dependencies]
+fordot = { git = "https://github.com/gha3mi/fordot.git" }
+```
+
 ## ForOpenAI
 
 [![GitHub](https://img.shields.io/badge/GitHub-ForOpenAI-blue.svg?style=social&logo=github)](https://github.com/gha3mi/foropenai)
