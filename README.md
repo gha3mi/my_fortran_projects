@@ -7,6 +7,25 @@ All projects listed here are designed to be used as fpm (Fortran package manager
 
 Below is a brief overview of each project:
 
+## ForCAD
+
+[![GitHub](https://img.shields.io/badge/GitHub-ForCAD-blue.svg?style=social&logo=github)](https://github.com/gha3mi/forcad)
+[![Version](https://img.shields.io/github/release/gha3mi/forcad.svg)](https://github.com/gha3mi/forcad/releases/latest)
+[![Documentation](https://img.shields.io/badge/ford-Documentation%20-blueviolet.svg)](https://gha3mi.github.io/forcad/)
+[![License](https://img.shields.io/github/license/gha3mi/forcad?color=green)](https://github.com/gha3mi/forcad/blob/main/LICENSE)
+[![Build](https://github.com/gha3mi/forcad/actions/workflows/fpm.yml/badge.svg)](https://github.com/gha3mi/forcad/actions/workflows/fpm.yml)
+
+<!-- <img alt="ForCAD" src="https://github.com/gha3mi/forcad/raw/main/media/logo.png" width="640"> -->
+
+ForCAD is A Fortran library for Geometric Modeling using NURBS (Non-Uniform Rational B-Splines).
+
+**fpm Dependency:**
+```toml
+[dependencies]
+forcad = { git = "https://github.com/gha3mi/forcad.git" }
+```
+
+
 ## ForCompile
 
 [![GitHub](https://img.shields.io/badge/GitHub-ForCompile-blue.svg?style=social&logo=github)](https://github.com/gha3mi/forcompile)
